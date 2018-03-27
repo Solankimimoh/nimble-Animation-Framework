@@ -132,7 +132,7 @@
         items: [
           {title: 'Get Started', to: '/'},
           {title: 'Logo Animation', to: '/inspire'},
-          {title: 'Icon Animation', to: '/home'}
+
         ],
         miniVariant: false,
         right: true,
